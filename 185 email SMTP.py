@@ -1,3 +1,4 @@
+# DEPENDENDO DO ARQUIVO .env-exmple LANÇADO NO GITHUB
 # Enviando E-mails SMTP com Python
 
 import os # acessa partes as variaveis de ambiente exportada pelo load_dotenv
