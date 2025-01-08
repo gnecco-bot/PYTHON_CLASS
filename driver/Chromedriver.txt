@@ -1,0 +1,2 @@
+Chromedriver mais atuais não há necessidade de instalar, versões acima de 115 
+estão prontas para usar o selenium
