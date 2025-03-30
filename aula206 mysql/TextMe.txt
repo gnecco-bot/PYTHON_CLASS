@@ -1,0 +1,7 @@
+Instalar DBeaver (SGBD)
+Instalar Docker ou MYSQL SERVER para subir o servidor
+	subir via terminal ou Docker 
+	comandos terminal:
+			 docker-compose up # subir servidor
+			 Docker os # mostrar container ativo
+		
