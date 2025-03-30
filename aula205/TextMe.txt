@@ -1,1 +1,0 @@
-SQLITE3 executar dados e hospedagem local sem dependência de nuvem.
